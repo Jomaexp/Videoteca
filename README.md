@@ -12,3 +12,6 @@ Todo se ha documentado con JavaDoc para entender el funcionamiento.
 La interfaz se ha hecho lo suficientemente amigable para que cualquiera pueda entenderla.
 En la carpeta DIST tenemos todo lo necesario para ejecutar la aplicación y probarla sin necesidad de acceder a las otras, que son de desarrollo.
 
+El funcionamiento es bastante básico. Se basa en el uso de una clase "Pelicula" que almacena los datos de una película. Luego la clase "DBPeliculas" va a realizar la conexión con la BD, que consta de un archivo local "peliculas.yap". Aparte de eso hará todas las operaciones de búsqueda, añadido, borrado, modificación y muestra.
+
+Si se tiene dudas sobre el funcionamiento, en el javadoc se explica con detenimiento.
