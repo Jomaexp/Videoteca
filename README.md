@@ -8,3 +8,7 @@ Buscar - Añadir - Modificar y Borrar películas del fichero que contiene todo e
 Podremos Buscar por los distintos criterios de las películas "título", "Año", "Actor", "Saga", "Director", "Genero", "HDD".
 
 Todo se ha documentado con JavaDoc para entender el funcionamiento.
+
+La interfaz se ha hecho lo suficientemente amigable para que cualquiera pueda entenderla.
+En la carpeta DIST tenemos todo lo necesario para ejecutar la aplicación y probarla sin necesidad de acceder a las otras, que son de desarrollo.
+
